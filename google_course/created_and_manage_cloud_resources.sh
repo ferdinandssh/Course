@@ -1,3 +1,4 @@
+
 # https://www.cloudskillsboost.google/focuses/10258?parent=catalog
 
 # Setup region and zone
